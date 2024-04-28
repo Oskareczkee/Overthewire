@@ -7,7 +7,7 @@ PASSWORD_LEN = 32
 
 MatchingChars=''
 
-auth = HTTPBasicAuth('natas16', 'wherethepassword')
+auth = HTTPBasicAuth('natas16', 'TRD7iZrd5gATjj9PkPEuaOlfEjHqj32V')
 headers = {'Content-Type': 'application/x-www-form-urlencoded'}
 url = "http://natas16.natas.labs.overthewire.org/index.php"
 
