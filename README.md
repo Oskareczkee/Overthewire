@@ -10,9 +10,9 @@ Decryption key: **y0UsHa1lno1pa5S**
 ## Scripts
 Various scripts used during hacking can be found in this repository. The majority of them is written in Python/PHP
 
-## Bandit
+## Bandit -> Done
 Bandit is all about linux and server vunerabilities. This is basically practical tutorial to linux console. Only 1 script was required to be written during 30 levels, which is not included here.  
 
-## Natas (Currently doing)
+## Natas -> Done
 Natas is about websites. It includes all kinds of simple vunerabilities including cookies hacking up to abusing file system using PHP.  
 Natas is great to learn about security, or for developers to start abusing their websites.
